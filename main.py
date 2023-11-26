@@ -6,7 +6,7 @@ simple logic
 
 1. open file
 2. empty metadata 
-(duplicating the image so that only the pixel data is saved and not the exiftool metadata)
+(duplicating the image so that only the pixel data is saved and not the exif data)
 3. save as new file
 
 
